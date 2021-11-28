@@ -1,13 +1,15 @@
 module.exports = {
   title: 'Shopizer Technical Documentation',
   description: 'Just playing around.',
-  base:"/vitepress-demo",
+  base:"/",
   themeConfig: {
     editLinks: true,
     algolia: {
       apiKey: 'your_api_key',
       indexName: 'index_name',
     },
+    docsDir: 'docs',
+    docsBranch: 'master',
     search: true,
     searchMaxSuggestions: 10,
     title: 'shopizer',

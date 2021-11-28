@@ -1,1 +1,1 @@
-var s="/vitepress-demo/assets/Shopizer-TLS.d6599970.png";export{s as _};
+var s="/assets/Shopizer-TLS.d6599970.png";export{s as _};
