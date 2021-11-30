@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as e}from"./app.75d36739.js";const l='{"title":"","description":"","frontmatter":{},"relativePath":"metrics/analytics.md","lastUpdated":1638312141582}',r={};function s(c,o,n,p,i,_){return e(),a("div")}var f=t(r,[["render",s]]);export{l as __pageData,f as default};
