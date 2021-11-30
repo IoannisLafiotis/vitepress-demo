@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,d}from"./app.c31060d3.js";const f='{"title":"","description":"","frontmatter":{},"relativePath":"whatisshopizer/default.md","lastUpdated":1638289841844}',o={},i=d("",8),a=[i];function s(n,l,p,c,m,u){return r(),e("div",null,a)}var S=t(o,[["render",s]]);export{f as __pageData,S as default};
